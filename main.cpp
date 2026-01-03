@@ -1,6 +1,6 @@
 /* Баллада о плюсах плюсов */
 
-#include <music/MINDBRAND.h>
+#include <./music/MINDBRAND.h>
 #include <iostream>
 #include <thread>
 #include <mutex>
